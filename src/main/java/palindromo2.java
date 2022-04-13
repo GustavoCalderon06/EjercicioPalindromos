@@ -1,4 +1,4 @@
-public class palindromo2 {
+
     public palindromo2() {
     }
 
